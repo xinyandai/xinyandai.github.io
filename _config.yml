@@ -33,12 +33,12 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ## => Author and Social
 ##############################
 author:
-  name: Someone
-  email: someone@somemail.com # your Email address e.g. someone@site.com
+  name: DAI, Xinyan
+  email: xinyan@smail.nju.edu.cn # your Email address e.g. someone@site.com
   facebook: # your Facebook username
   twitter: # your Twitter username
-  github: # your GitHub username
-  linkedin: # your Linkedin username
+  github: xinyandai# your GitHub username
+  linkedin: Xinyan Dai# your Linkedin username
   googleplus: # your Google+ username
   weibo: # your Weibo username
   douban: # your Douban username
@@ -46,7 +46,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: someone/someone.github.io
+repository: xinyandai/xinyandai.github.io
 repository_tree: master
 
 
@@ -80,8 +80,8 @@ toc:
 ## Markdown Enhancements
 
 # Mathjax
-mathjax: # false (default), true
-mathjax_autoNumber: # false (default), true
+mathjax: true# false (default), true
+mathjax_autoNumber: true# false (default), true
 
 # Mermaid
 mermaid: # false (default), true
