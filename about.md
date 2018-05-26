@@ -14,7 +14,7 @@ My name is Dai Xinyan, I am an undergraduate student of [Software Institute](htt
 Information Retrieval and Similarity Search.
 ## Awards & Honors
 | Awards | Date |
-| - | :-: | 
+| --- | :---: | 
 | National Endeavor Scholarship | 2015 |
 | Sun Dalun Exchange Scholarship | 2016 |
 | People's scholarship | 2016 |
