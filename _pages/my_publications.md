@@ -10,7 +10,7 @@ author_profile: true
 
 1. Xiao Yan, **Xinyan Dai**, Jie Liu, Kaiwen Zhou, James Cheng  
 **Norm-Range Partition: A Universal Catalyst for LSH based Maximum Inner Product Search (MIPS)**  
-[paper,](https://arxiv.org/pdf/1810.09104)&nbsp;&nbsp;[code](https://github.com/xinyandai/similarity-search/tree/mipsex)  
+[paper,](https://arxiv.org/pdf/1810.09104.pdf)&nbsp;&nbsp;[code](https://github.com/xinyandai/similarity-search/tree/mipsex)  
 
 2. Xiao Yan, Jinfeng Li, **Xinyan Dai**, Hongzhi Chen, and James Cheng  
 **Norm-Ranging LSH for Maximum Inner Product Search**  
