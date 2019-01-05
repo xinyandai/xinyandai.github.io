@@ -11,7 +11,7 @@ redirect_from:
 
 Biography
 ------
-My name is DAI Xinyan, I am a Ph.D student at The Chinese University of Hong Kong, My supervisor is [James Cheng](http://www.cse.cuhk.edu.hk/~jcheng). Before coming to CUHK, I got my bachelor degree from [Nanjing University](https://www.nju.edu.cn/EN/) in 2018.
+I am a Ph.D student at The Chinese University of Hong Kong, under the supervision of [James Cheng](http://www.cse.cuhk.edu.hk/~jcheng). Before coming to CUHK, I got my bachelor degree from [Nanjing University](https://www.nju.edu.cn/EN/) in 2018.
 
 
 Publications
@@ -28,5 +28,5 @@ In Proceedings of the 31st Annual Conference on Neural Information Processing Sy
 
 Research Interest
 ------
-Information Retrieval and Similarity Search.
+Similarity Search and Large Scale Machine Learning.
 
